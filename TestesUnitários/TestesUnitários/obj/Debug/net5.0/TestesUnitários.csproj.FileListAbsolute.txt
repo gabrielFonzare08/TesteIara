@@ -1,0 +1,16 @@
+C:\Users\Computador\Teste Iara\TestesUnitários\TestesUnitários\bin\Debug\net5.0\TestesUnitários.exe
+C:\Users\Computador\Teste Iara\TestesUnitários\TestesUnitários\bin\Debug\net5.0\TestesUnitários.deps.json
+C:\Users\Computador\Teste Iara\TestesUnitários\TestesUnitários\bin\Debug\net5.0\TestesUnitários.runtimeconfig.json
+C:\Users\Computador\Teste Iara\TestesUnitários\TestesUnitários\bin\Debug\net5.0\TestesUnitários.runtimeconfig.dev.json
+C:\Users\Computador\Teste Iara\TestesUnitários\TestesUnitários\bin\Debug\net5.0\TestesUnitários.dll
+C:\Users\Computador\Teste Iara\TestesUnitários\TestesUnitários\bin\Debug\net5.0\ref\TestesUnitários.dll
+C:\Users\Computador\Teste Iara\TestesUnitários\TestesUnitários\bin\Debug\net5.0\TestesUnitários.pdb
+C:\Users\Computador\Teste Iara\TestesUnitários\TestesUnitários\obj\Debug\net5.0\TestesUnitários.csproj.AssemblyReference.cache
+C:\Users\Computador\Teste Iara\TestesUnitários\TestesUnitários\obj\Debug\net5.0\TestesUnitários.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computador\Teste Iara\TestesUnitários\TestesUnitários\obj\Debug\net5.0\TestesUnitários.AssemblyInfoInputs.cache
+C:\Users\Computador\Teste Iara\TestesUnitários\TestesUnitários\obj\Debug\net5.0\TestesUnitários.AssemblyInfo.cs
+C:\Users\Computador\Teste Iara\TestesUnitários\TestesUnitários\obj\Debug\net5.0\TestesUnitários.csproj.CoreCompileInputs.cache
+C:\Users\Computador\Teste Iara\TestesUnitários\TestesUnitários\obj\Debug\net5.0\TestesUnitários.dll
+C:\Users\Computador\Teste Iara\TestesUnitários\TestesUnitários\obj\Debug\net5.0\ref\TestesUnitários.dll
+C:\Users\Computador\Teste Iara\TestesUnitários\TestesUnitários\obj\Debug\net5.0\TestesUnitários.pdb
+C:\Users\Computador\Teste Iara\TestesUnitários\TestesUnitários\obj\Debug\net5.0\TestesUnitários.genruntimeconfig.cache
